@@ -1,7 +1,7 @@
 <h1>AnimalSpawn<h1> <br>
 
 <p>
-Este poroyecto consiste en una api que nos devuela,agregue,actualize y elimine la información de animales para poder ser consumida en otra aplicación
+Este proyecto consiste en una api que nos devuela,agregue,actualize y elimine la información de animales para poder ser consumida en otra aplicación
 </p>
 
 <br>
